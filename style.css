@@ -54,7 +54,7 @@ main{
     text-align: justify;
 }
 
-#imagem{
+.imagem{
     height: 60%;
     width: 300PX;
 }
